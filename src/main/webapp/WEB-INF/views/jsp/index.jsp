@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<marquee><h2>Welcome To gangavaram Technologies, Marathahalli, Banglore.</h2></marquee>
-			<h3>Contact @ +91-8639380177</h3>
+			<h3>Contact @ +91-7893137868</h3>
 		</div>	
 	</div>
 
